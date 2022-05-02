@@ -1,0 +1,9 @@
+pandas
+polars
+ipython
+jupyterlab
+streamlit
+altair
+altair_data_server
+duckdb
+dask
