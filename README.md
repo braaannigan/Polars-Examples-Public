@@ -1,5 +1,7 @@
 # Polars-Examples-Public
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Polars-Examples-Public/HEAD)
+
 For the Pandas Comparison see this notebook by Matthew Powers for the 100 m row dataset: https://github.com/coiled/coiled-resources/blob/main/local/speed-up-dask-10x.ipynb
 
 To run the notebooks start the container with:
